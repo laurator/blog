@@ -1,0 +1,8 @@
+Open VSCode
+Inside the folder of the BLOG, run in console:
+
+npm run start
+
+On a parallel console, run:
+npx json-server --watch data/db.json --port 8000
+
