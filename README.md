@@ -11,4 +11,4 @@
 * Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Visualization of the blog
-![image](./Blog home.png)
+![image](./Blog-home.png)
